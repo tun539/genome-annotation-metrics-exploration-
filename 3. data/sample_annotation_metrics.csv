@@ -1,1 +1,9 @@
-
+genome_name,species,genus,family,order,completeness_score,protein_coding_genes,transcripts,mean_exons_per_transcript,mean_gene_length,mean_transcript_length
+Genome_A,Species_a,Genus_1,Family_1,Order_1,92.4,20150,42300,8.2,24500,1850
+Genome_B,Species_b,Genus_1,Family_1,Order_1,90.1,19820,41050,7.9,23800,1795
+Genome_C,Species_c,Genus_2,Family_1,Order_1,88.7,18790,39840,7.1,22050,1710
+Genome_D,Species_d,Genus_3,Family_2,Order_2,95.3,21540,44610,8.8,26100,1920
+Genome_E,Species_e,Genus_3,Family_2,Order_2,96.1,22110,45220,9.0,26700,1985
+Genome_F,Species_f,Genus_4,Family_3,Order_3,81.5,16020,33810,5.6,18300,1410
+Genome_G,Species_g,Genus_4,Family_3,Order_3,79.8,15440,32590,5.2,17650,1385
+Genome_H,Species_h,Genus_5,Family_4,Order_4,93.8,20870,43010,8.4,24950,1875
